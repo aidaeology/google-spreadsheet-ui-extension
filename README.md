@@ -15,9 +15,9 @@ You will need to have the following completed to use this UI extension.
 - [npm](https://www.npmjs.com/) installed and configured for dependencies management.
 - [gulp](http://gulpjs.com/) for building some samples.
 
-## Common preparation steps
+## Preparation steps
 
-Each sample will need you to use the [Contentful CLI](https://github.com/contentful/contentful-cli):
+You can manage your extensions using the [Contentful CLI](https://github.com/contentful/contentful-cli):
 
 ```bash
 contentful login
