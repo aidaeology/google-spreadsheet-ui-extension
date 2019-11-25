@@ -1,0 +1,18 @@
+{
+  "id": "google-spreadsheet-extension",
+  "name": "google-spreadsheet-extension",
+  "srcdoc": "./build/index.html",
+  "fieldTypes": [
+    "Symbols"
+  ],
+  "parameters": {
+      "installation": [],
+      "instance": [{
+          "id": "sheetID",
+          "type": "Symbol",
+          "name": "Spreadsheet ID",
+          "description": "Please enter the id of the google spreadsheet you want to load data from.",
+          "required": true
+       }]
+    }
+}

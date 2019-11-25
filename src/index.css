@@ -1,0 +1,16 @@
+html,
+body,
+div {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+.model-dropdown {
+  box-sizing: border-box;
+  height: 175px;
+  padding: 0;
+}
